@@ -1,1 +1,1 @@
-# house-party
+# House Party
